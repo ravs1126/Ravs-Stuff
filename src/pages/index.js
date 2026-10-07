@@ -9,25 +9,44 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className= "hero" >
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/RB3-Charting/intro">
-            RB3 Charting 
+            RB3 Charting
           </Link>
-	  
-		  <Link
+          <Link
             className="button button--secondary button--lg"
             to="/docs/Recipes/Hello">
             Recipes
           </Link>
-      </div>
+        </div>
+
+        {/* Extra text section */}
+        <div style={{marginTop: '3rem', maxWidth: '600px', marginLeft: 'auto', marginRight: 'auto'}}>
+          <p>
+            WAGWAN PEOPLE.
+          </p>
+          <p>
+            This place has all my stuff enjoy.		
+          </p>
+        </div>
+		
+		{/* Centered image */}
+<div style={{textAlign: 'center', marginTop: '2.5rem'}}>
+  <img 
+    src="/img/maface2.jpg" 
+    alt="O.O"
+    style={{maxWidth: '400px', width: '100%', borderRadius: '12px'}}
+  />
+</div>
       </div>
     </header>
   );
