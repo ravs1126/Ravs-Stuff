@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://ravisstuff.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -29,8 +29,8 @@ const config = {
 
 
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ravs1126', // Usually your GitHub org/user name.
+  projectName: 'Ravs-Stuff', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
 
@@ -50,7 +50,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
                  editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ravs1126/Ravs-Stuff/tree/main/',
         },
         blog: false , 
         theme: {
@@ -89,7 +89,7 @@ const config = {
           },
 		 
                   {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ravs1126/Ravs-Stuff',
             label: 'GitHub',
             position: 'right',
           },
@@ -98,6 +98,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+		{
                     title: 'Social ',
             items: [
                           {
@@ -115,7 +116,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ravs1126/Ravs-Stuff',
               },
             ],
           },
