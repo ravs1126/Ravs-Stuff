@@ -98,17 +98,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Guides',
-                to: '/docs',
-              },
-            ],
-          },
-          {
-            title: 'Social ',
+                    title: 'Social ',
             items: [
                           {
                 label: 'My Discord',
