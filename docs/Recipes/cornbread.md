@@ -3,7 +3,7 @@ sidebar_position: 7
 title: Jalapeno Cornbread
 --- 
 
-<img src="/img/jalapenocornbread.png" alt="Jerk Chicken" width="350" align="right" />
+<img src="/img/aglio.jpg" alt="Jerk Chicken" width="350" align="right" />
 
 
 ## What you need
