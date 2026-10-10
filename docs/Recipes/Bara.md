@@ -1,5 +1,5 @@
 --- 
-sidebar_position: 
+sidebar_position: 12
 title: Bara
 --- 
 
