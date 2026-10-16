@@ -6,6 +6,10 @@ title: Aglio e Olio
 <img src="/img" alt="aglio.jpg" width="350" align="right" />
 
 
+# for me
+
+355g raw pasta, 55g cheese, 55g oil
+
 ## What you need
 
 I dont know measurements, i just put stuff until my heart is happy with it :)
