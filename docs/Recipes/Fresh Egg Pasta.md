@@ -3,7 +3,7 @@ sidebar_position: 12
 title: Fresh Pasta
 --- 
 
-<img src="/img" alt="noods" width="350" align="right" />
+<img src="/img" alt="noods.png" width="350" align="right" />
 
 
 ## What you need
@@ -30,7 +30,7 @@ Pinch salt - If you hand big dont use big pinch or you mouth gonna cry
 
 4. Once the dough has formed into a nice ball, you can either cover it with a towel and let it rest on the countertop OR you can wrap it in plastic wrap and leave it to rest. Its not gonna swell up like bread dont worry about this. look at the picture to see what my one look like
 
-<img src="/img" alt="wrappeddough" width="350" align="center" />
+<img src="/img" alt="wrappeddough.png" width="350" align="center" />
 
 	#### TIP FROM ME 
  I discovered that the longer the dough rests the nicer it is to work with, so let it rest for around 45 min
@@ -42,7 +42,7 @@ Pinch salt - If you hand big dont use big pinch or you mouth gonna cry
 
 - I did this two times, when you rolling the dough out after laminating dont roll on the folded edge, roll it from the ugly fold side that has the 3 pieces look the picture will explain it 
 
-<img src="/img" alt="laminated" width="350" align="center" />
+<img src="/img" alt="laminated.jpg" width="350" align="center" />
 
 2. Now just roll the noodle out to your desired thickness, and then cut into the shapes you want to use. I like to make tagliolini, and tagliatelle.
 
