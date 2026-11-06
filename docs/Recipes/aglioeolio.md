@@ -3,7 +3,7 @@ sidebar_position: 9
 title: Aglio e Olio
 --- 
 
-<img src="/img" alt="aglio.jpg" width="350" align="right" />
+<img src="/img/aglio.jpg" alt="aglio.jpg" width="350" align="right" />
 
 
 # for me
