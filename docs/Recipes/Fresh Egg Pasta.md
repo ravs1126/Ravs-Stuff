@@ -12,9 +12,9 @@ This one I know measurement :) Ram ram
 
 The measurements here are for a single portion/serving so just scale it depending how big you are :)
 
-100g Flour - I used AP but OO supposed to be the correct one but IMO AP is fine
-1 Whole Egg
-Pinch salt - If you hand big dont use big pinch or you mouth gonna cry
+- 100g Flour - I used AP but OO supposed to be the correct one but IMO AP is fine
+- 1 Whole Egg
+- Pinch salt - If you hand big dont use big pinch or you mouth gonna cry
 
 
 ## Making the dough
