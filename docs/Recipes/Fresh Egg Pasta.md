@@ -38,13 +38,15 @@ The measurements here are for a single portion/serving so just scale it dependin
 
 ## Rolling out pasta
 
-1. Take your belna and start roll the dough as thin as you can get it to be. Once its nice and thin laminate the dough one time. Pretend its divided into thirds, fold one third into the middle then the other third on top. Look at picutre if you get confusion in you
+1. I like to divide the dough into 4 pieces, just cut it into quarters and work with one quarter at a time. While leaving the others under a towel so they dont dry out.
+
+2. Take your belna and start roll the dough as thin as you can get it to be. Once its nice and thin laminate the dough one time. Pretend its divided into thirds, fold one third into the middle then the other third on top. Look at picutre if you get confusion in you
 
 - I did this two times, when you rolling the dough out after laminating dont roll on the folded edge, roll it from the ugly fold side that has the 3 pieces look the picture will explain it 
 
 <img src="/img/laminated.jpg" alt="laminated.jpg" width="350" align="center" />
 
-2. Now just roll the noodle out to your desired thickness, and then cut into the shapes you want to use. I like to make tagliolini, and tagliatelle.
+3. Now just roll the noodle out to your desired thickness, and then cut into the shapes you want to use. I like to make tagliolini, and tagliatelle.
 
 - When youre cutting the noodles into shapes, if you using a machine its fine you get what you get. If youre using a knife cut the noodles slightly thinner than you want it to be when you eat, cause they plump up when you boil the noods
 
